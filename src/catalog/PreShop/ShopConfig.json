@@ -1,0 +1,156 @@
+{
+  "daily": [
+    {
+      "id": "AthenaPickaxe:Pickaxe_ID_203_AshtonSaltLake",
+      "price": 800,
+      "rarity": "marvel",
+      "type": "pickaxe"
+    },
+    {
+      "id": "AthenaMusicPack:MusicPack_032_GrooveJam",
+      "price": 200,
+      "rarity": "rare",
+      "type": "music"
+    },
+    {
+      "id": "AthenaGlider:Glider_Venom",
+      "price": 500,
+      "rarity": "uncommon",
+      "type": "glider"
+    },
+    {
+      "id": "AthenaDance:EID_Touchdown",
+      "price": 500,
+      "rarity": "rare",
+      "type": "emote"
+    },
+    {
+      "id": "AthenaDance:EID_Shadowboxing",
+      "price": 200,
+      "rarity": "uncommon",
+      "type": "emote"
+    },
+    {
+      "id": "AthenaDance:EID_SexyFlip",
+      "price": 500,
+      "rarity": "rare",
+      "type": "emote"
+    }
+  ],
+  "featured": [
+    {
+      "name": "Catssassin",
+      "bundlePrice": 3050,
+      "items": [
+        {
+          "id": "AthenaCharacter:CID_751_Athena_Commando_F_NeonCatSpy",
+          "price": 1500,
+          "rarity": "epic",
+          "type": "outfit"
+        },
+        {
+          "id": "AthenaBackpack:BID_514_NeonCatSpy",
+          "price": 500,
+          "rarity": "epic",
+          "type": "backpack"
+        },
+        {
+          "id": "AthenaPickaxe:Pickaxe_ID_393_NeonCatSpyFemale",
+          "price": 800,
+          "rarity": "rare",
+          "type": "pickaxe"
+        },
+        {
+          "id": "AthenaDance:EID_NeonCatSpy",
+          "price": 800,
+          "rarity": "epic",
+          "type": "emote"
+        }
+      ]
+    },
+    {
+      "name": "Stripes and Solids",
+      "bundlePrice": 3650,
+      "items": [
+        {
+          "id": "AthenaCharacter:CID_566_Athena_Commando_M_CrazyEight",
+          "price": 1500,
+          "rarity": "epic",
+          "type": "outfit"
+        },
+        {
+          "id": "AthenaBackpack:BID_369_CrazyEight",
+          "price": 500,
+          "rarity": "epic",
+          "type": "backpack"
+        },
+        {
+          "id": "AthenaPickaxe:Pickaxe_ID_284_CrazyEight1H",
+          "price": 800,
+          "rarity": "rare",
+          "type": "pickaxe"
+        },
+        {
+          "id": "AthenaGlider:Glider_ID_179_CrazyEight",
+          "price": 1200,
+          "rarity": "epic",
+          "type": "glider"
+        },
+        {
+          "id": "AthenaItemWrap:Wrap_148_CrazyEight",
+          "price": 300,
+          "rarity": "rare",
+          "type": "wrap"
+        }
+      ]
+    },
+    {
+      "name": "Bassassin",
+      "bundlePrice": 1200,
+      "items": [
+        {
+          "id": "AthenaCharacter:CID_722_Athena_Commando_M_TeriyakiFishAssassin",
+          "price": 1200,
+          "rarity": "rare",
+          "type": "outfit"
+        },
+        {
+          "id": "AthenaBackpack:BID_496_TeriyakiFishAssassin",
+          "price": 200,
+          "rarity": "rare",
+          "type": "backpack"
+        }
+      ]
+    },
+    {
+      "name": "Frosty Fights",
+      "bundlePrice": 3050,
+      "items": [
+        {
+          "id": "AthenaCharacter:CID_629_Athena_Commando_M_SnowGlobe",
+          "price": 1500,
+          "rarity": "epic",
+          "type": "outfit"
+        },
+        {
+          "id": "AthenaBackpack:BID_424_SnowGlobe",
+          "price": 500,
+          "rarity": "epic",
+          "type": "backpack"
+        },
+        {
+          "id": "AthenaPickaxe:Pickaxe_ID_015_HolidayCandyCane",
+          "price": 800,
+          "rarity": "epic",
+          "type": "pickaxe"
+        },
+        {
+          "id": "AthenaPickaxe:Pickaxe_ID_294_CandyCane",
+          "price": 800,
+          "rarity": "epic",
+          "type": "pickaxe"
+        }
+      ]
+    }
+  ]
+}
